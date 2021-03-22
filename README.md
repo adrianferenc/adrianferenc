@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianferenc
-- 👀 I’m interested in mathematics, data science, and being creative by problem solving
+- 👀 I’m interested in mathematics, data science, and solving problems through creative problem-solving.
 
 <!---
 adrianferenc/adrianferenc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
